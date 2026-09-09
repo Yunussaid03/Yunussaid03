@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://avatars.githubusercontent.com/u/128889597?v=4" width="96" height="96" alt="Yunus Said" style="border-radius: 50%;" />
+<img src="https://img.shields.io/badge/Yunus_Said-000?style=for-the-badge&logo=github&logoColor=white" width="96" height="96" alt="Yunus Said" style="border-radius: 50%;" />
 
 <br /><br />
 
@@ -111,11 +111,11 @@ I move across the stack when the problem asks for it.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Activity
 
 <div align="center">
 
-![snake gif](https://github.com/Yunussaid03/Yunussaid03/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yunussaid03&theme=dark-dimmed&bg_color=0d1117&color=58a6ff&point=ffffff&area_color=58a6ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
