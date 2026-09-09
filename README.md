@@ -27,6 +27,23 @@
 
 <br />
 
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=Yunussaid03&style=flat-square&color=666666" alt="Profile Views" />
+
+<br /><br />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yunussaid03&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunussaid03&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
+
 </div>
 
 ---
@@ -80,8 +97,27 @@ I care about the product surface as much as the internals: escrow and maps in Ca
 I move across the stack when the problem asks for it.
 
 <p align="center">
-  TypeScript · React · Node · PHP · Python · C++ · Supabase · MySQL
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
+<br />
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://github.com/Yunussaid03/Yunussaid03/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <br />
 
