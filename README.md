@@ -1,113 +1,49 @@
 <div align="center">
 
-<br />
+<!-- Animated Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080D,50:0F172A,100:00F0FF&height=180&section=header&text=YUNUS%20SAID&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20AI%20Systems%20Architect&descSize=16&descAlignY=58&descColor=94A3B8" width="100%" alt="Yunus Said Banner" />
 
-<img src="https://img.shields.io/badge/Yunus_Said-000?style=for-the-badge&logo=github&logoColor=white" width="96" height="96" alt="Yunus Said" style="border-radius: 50%;" />
-
-<br /><br />
-
-<p>
-  <sub>COMPUTER SCIENCE · XIAMEN UNIVERSITY MALAYSIA</sub>
-</p>
-
-# Yunus Said
-
-<p>
-  Final-year Computer Science student.<br />
-  I build software that is quiet, useful, and finished enough to use.
-</p>
-
-<p>
-  <a href="https://github.com/Yunussaid03">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/yunus-said-6340253b8/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:yunussaid2704@gmail.com">Email</a>
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://yunus.software">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=I+build+software+that+is+quiet%2C+useful%2C+and+finished+enough+to+use.;Architecting+B2B+Fleet+ERPs%2C+Edge+AI+Watchdogs+%26+Production+Web.;Final-Year+Computer+Science+%40+Xiamen+University+Malaysia." alt="Typing SVG" />
+</a>
 
 <br />
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Yunussaid03&style=flat-square&color=666666" alt="Profile Views" />
-
-<br /><br />
-
-</div>
-
----
-
-<div align="center">
-  <sub>SELECTED WORK</sub>
-</div>
-
-<br />
-
-### [KettyFleet](https://github.com/Yunussaid03/kettyfleet)
-**Fleet operations, without the spreadsheet.**  
-ERP for tour operators: vehicles, jobs, compliance, fuel, and maintenance in one place. Role-based views for admin, owner, and staff. Built with React, TypeScript, Tailwind, and Supabase.
-
-### [Campus Relay](https://github.com/Yunussaid03/campusrelay)
-**A campus sharing economy, designed for XMUM.**  
-Peer-to-peer rentals for scooters, bikes, and cars. Maps, chat, escrow deposits, lock-code release, and check-in photos. PHP, MariaDB, Leaflet.
-
-### [Storygen Agent](https://github.com/Yunussaid03/storygen-agent)
-**Stories with a visual, saved to the cloud.**  
-Multimodal agent: Groq for language, Flux for scenes, Supabase for accounts and a private library. Streamlit on the surface; tools and auth underneath.
-
-### [UniWallet](https://github.com/Yunussaid03/uniwallet)
-**A kill switch for zombie subscriptions.**  
-Track recurring spend, cancel in one tap, and park money in virtual cards. Lightweight, mobile-first, Chart.js.
-
-### [Algorithm Optimization Engine](https://github.com/Yunussaid03/algorithm-optimization-engine)
-**Routing, budget, and catalog — in C++.**  
-Dijkstra on destination graphs, 0/1 knapsack for hotel selection, and a CLI data plane for sort and search. Built to make complexity visible.
-
-### [StudyTrack](https://github.com/Yunussaid03/studytrack)
-**Ten focused minutes, then a record.**  
-React session timer with history, totals, and a sound at zero. Small, calm, and built to stay out of the way.
-
-### [Task API](https://github.com/Yunussaid03/todo-crud-api)
-**A REST API you can actually document.**  
-In-memory CRUD on Node and Express, with health checks and Swagger at `/docs`.
-
-<br />
-
----
-
-<div align="center">
-  <sub>HOW I WORK</sub>
-</div>
-
-<br />
-
-I care about the product surface as much as the internals: escrow and maps in Campus Relay, job-centric ops in KettyFleet, a one-tap control in UniWallet.
-
-I move across the stack when the problem asks for it.
-
+<!-- Quick Navigation & Social Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://yunus.software">
+    <img src="https://img.shields.io/badge/PORTFOLIO-yunus.software-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.klmw.my">
+    <img src="https://img.shields.io/badge/LIVE_CLIENT-klmw.my-F59E0B?style=for-the-badge&logo=cloudflare&logoColor=black" alt="KLMW Live" />
+  </a>
+  <a href="https://www.linkedin.com/in/yunus-said-6340253b8/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Yunus_Said-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yunussaid2704@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yunussaid03&style=for-the-badge&color=1E293B&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-<br />
+</div>
 
 ---
 
-<div align="center">
+### ⚡ `whoami` — System Telemetry
 
-Currently at **Xiamen University Malaysia**.<br />
-Open to internships, collaborations, and products that need a careful builder.
+```yaml
+engineer: Yunus Said Khaidum
+education: B.Sc. Computer Science & Technology @ Xiamen University Malaysia (Final Year)
+location: Kuala Lumpur / Sepang, Malaysia 🇲🇾
+languages: [English, Arabic, Swahili, Hindi]
 
-<br />
+recent_experience:
+  - Tech Associate (Intern) @ GETAcademy (IT & Digital Platforms)
+  - Software Engineer (Contract) @ KettyFleet (57-Vehicle B2B Fleet ERP)
+  - Backend AI Engineer (Intern) @ FlyRank AI (LLM & Organic Growth Pipelines)
+  - Full-Stack Engineer (Freelance) @ KL Motoren Werke & Fintech API Integrations
 
-<a href="mailto:yunussaid2704@gmail.com">yunussaid2704@gmail.com</a>
-
-<br /><br />
-
-</div>
+philosophy: "I care about the product surface as much as the internals—clean interfaces backed by fault-tolerant systems."
+off_screen: ["Friday Night Futsal ⚽", "Hypertrophy & Strength Training 🏋️‍♂️", "FPL Analytics (Kingsman Bot) 📊", "Chess & 8-Ball Pool 🎱"]
