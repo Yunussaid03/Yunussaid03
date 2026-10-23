@@ -18,6 +18,9 @@
   <a href="https://www.klmw.my">
     <img src="https://img.shields.io/badge/LIVE_CLIENT-klmw.my-F59E0B?style=for-the-badge&logo=cloudflare&logoColor=black" alt="KLMW Live" />
   </a>
+  <a href="https://korporatlygroup.com">
+    <img src="https://img.shields.io/badge/LIVE_CLIENT-Korporatly_Group-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Korporatly Live" />
+  </a>
   <a href="https://www.linkedin.com/in/yunus-said-6340253b8/">
     <img src="https://img.shields.io/badge/LINKEDIN-Yunus_Said-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -40,7 +43,7 @@
 <b>languages:</b> [English, Arabic, Swahili, Hindi]
 
 <b>recent_experience:</b>
-  - Tech Associate (Intern) @ GETAcademy (IT &amp; Digital Platforms)
+  - Tech Associate (Intern) @ GETAcademy (Deployed korporatlygroup.com)
   - Software Engineer (Contract) @ KettyFleet (57-Vehicle B2B Fleet ERP)
   - Backend AI Engineer (Intern) @ FlyRank AI (LLM &amp; Organic Growth Pipelines)
   - Full-Stack Engineer (Freelance) @ KL Motoren Werke &amp; Fintech API Integrations
@@ -78,6 +81,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🏢 <a href="https://korporatlygroup.com">Korporatly Group</a></h3>
+      <p><strong>Enterprise corporate platform & digital presence.</strong><br/>
+      Engineered and deployed during my GETAcademy internship. A high-performance, responsive corporate portal built to drive enterprise client acquisition and establish digital authority.</p>
+      <p>
+        <code>Production Web</code> <code>SEO Optimization</code> <code>UI/UX Architecture</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🚛 <a href="https://github.com/Yunussaid03/kettyfleet">KettyFleet ERP</a> <code>[ACTIVE R&D]</code></h3>
       <p><strong>Fleet operations, without the spreadsheet.</strong><br/>
       Full-stack B2B ERP architected for a commercial operator managing ~57 vehicles. Tracks bookings, digital inspections, compliance, fuel, maintenance, and role-based dispatch views for admin, owner, and staff.</p>
@@ -85,6 +96,8 @@
         <code>TypeScript</code> <code>React 18</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Shadcn</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/Yunussaid03/campusrelay">Campus Relay</a></h3>
       <p><strong>A campus sharing economy, designed for XMUM.</strong><br/>
@@ -93,8 +106,6 @@
         <code>PHP 8</code> <code>MySQL / MariaDB</code> <code>Leaflet.js GIS</code> <code>JavaScript</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/Yunussaid03/omniextract-ai">OmniExtract AI</a> <code>[ACTIVE R&D]</code></h3>
       <p><strong>Multimodal ingestion into structured spreadsheets.</strong><br/>
@@ -103,6 +114,8 @@
         <code>TypeScript</code> <code>Gemini API</code> <code>Express</code> <code>SQLite</code> <code>OAuth 2.0</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎨 <a href="https://github.com/Yunussaid03/storygen-agent">Storygen Agent</a></h3>
       <p><strong>Stories with a visual, saved to the cloud.</strong><br/>
@@ -110,6 +123,8 @@
       <p>
         <code>Python</code> <code>Streamlit</code> <code>Groq API</code> <code>Supabase</code> <code>Multimodal AI</code>
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
